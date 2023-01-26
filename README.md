@@ -58,7 +58,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 ## OUTPUT:
 
-![OUTPUT](./1tou.png)
+![OUTPUT](./1tuo.png)
 
 ![OUTPUT](./2tou.png)
 
